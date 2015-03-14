@@ -1,0 +1,5 @@
+/Users/VisheshSood/Projects/MyProject/MyProject/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/VisheshSood/Projects/MyProject/MyProject/bin/MyProject.dll.mdb
+/Users/VisheshSood/Projects/MyProject/MyProject/bin/MyProject.dll
+/Users/VisheshSood/Projects/MyProject/MyProject/obj/Debug/MyProject.dll
+/Users/VisheshSood/Projects/MyProject/MyProject/obj/Debug/MyProject.dll.mdb
