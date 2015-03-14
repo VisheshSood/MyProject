@@ -18,5 +18,7 @@ namespace MyProject {
 		protected System.Web.UI.WebControls.Button button1;
 		
 		protected System.Web.UI.WebControls.Button button2;
+
+
 	}
 }
